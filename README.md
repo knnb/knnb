@@ -7,11 +7,9 @@
 
 
 
-```
+
 ```
 print(f'Follow {knnb} on Github')
-```
-
 ```
 
 
