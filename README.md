@@ -8,11 +8,9 @@
 
 
 ```
-import time
-
-print(" Follow knnb on github! ")
-time.sleep(2)
-print(" And join discord :D ")
+```python
+print(f'Follow {knnb} on Github')
+```
 
 ```
 
