@@ -22,7 +22,7 @@ Languages  :  Python, Lua, Batch, C.
 
 ## LINKS:
 
- - [Discord Server](https://discord.gg/sEanJEvb)
+ - [Discord Server](https://discord.gg/clod)
  - [PayPal](https://paypal.me/275n)
 
 
