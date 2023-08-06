@@ -9,7 +9,7 @@
 
 
 ```python
-print(f'Follow {KLNNNNN} on Github')
+print(f'Follow {knnb} on Github')
 ```
 
 ```python
